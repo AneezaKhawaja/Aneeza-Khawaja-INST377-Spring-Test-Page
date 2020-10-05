@@ -1,0 +1,41 @@
+.testudo_logo {
+    margin-left: auto;
+}
+
+.header {
+    align-items: center;
+      width: 100%;
+      display: flex;
+      background-color: #D9FFB0 ;
+}
+
+.container {
+    min-width: 960px;
+    margin-top: 15px;
+
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: nowrap;
+   
+}
+
+.side_panel {
+    flex-basis:33.33%;
+    background-color: #D9FFB0
+}
+
+.main_text {
+    flex-basis:66.66%;
+    background-color: #E7AFEF  ;
+    border-radius: 4px;
+    border: 2px solid black;
+}
+
+.Aneezapic {
+    border-radius: 4px;
+    border: 1px solid black;
+    width: 100%;
+
+}
